@@ -1,5 +1,5 @@
 ### Hi, I'm Ima 👋🏼👩🏽‍💻
-![](https://github.com/imaa04/imaa04/blob/main/Screenshot%202024-04-20%20at%2000.06.39.png)
+![](https://github.com/imaa04/imaa04/blob/main/readme-cover.png)
 
 I'm a software developer who is passionate about creating technology to elevate people and myself. As I venture into the world of software development, I'm actively seeking opportunities to apply and learn skills to make a positive impact in the industry.
 
