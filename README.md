@@ -1,6 +1,7 @@
 ### Hi, I'm Ima 👋🏼👩🏽‍💻
-![](https://github.com/imaa04/imaa04/blob/main/readme-cover.png)
-
+<picture>
+<img src="https://github.com/imaa04/imaa04/blob/main/readme-cover.png"/>
+</picture>
 I'm a software developer who is passionate about creating technology to elevate people and myself. As I venture into the world of software development, I'm actively seeking opportunities to apply and learn skills to make a positive impact in the industry.
 
 Skills: REACT / JS / HTML / CSS / REACT NATIVE /  PSQL / NODE.JS / EXPRESS , TAILWIND CSS, SUPABASE. VERCEL.
